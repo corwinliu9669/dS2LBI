@@ -1,4 +1,4 @@
-# gS2LBI
+# dS2LBI
 
 This is the project page for Split LBI. It is an optimization toolbox for <a href="https://pytorch.org/"> <b>Pytorch.</b>
 
