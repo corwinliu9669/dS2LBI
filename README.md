@@ -1,6 +1,6 @@
 # dS2LBI
 
-This is the project page for Split LBI. It is an optimization toolbox for <a href="https://pytorch.org/"> <b>Pytorch.</b>
+This is the project page for dS2LBI. It is an optimization toolbox for <a href="https://pytorch.org/"> <b>Pytorch.</b>
 
 # Prerequisites
 Pytorch 1.0 +
