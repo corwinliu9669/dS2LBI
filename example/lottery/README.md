@@ -1,9 +1,9 @@
-# SPLITLBI WITH EARLY STOPPING AND RETRAIN FINDS EFFECTIVE SUB-NETWORKS
+# dS2LBI WITH EARLY STOPPING AND RETRAIN FINDS EFFECTIVE SUB-NETWORKS
 
-This fold contains codes for using SLBI find winning tickets. Thanks for [Rethinking the Value of Network Pruning (Pytorch) (ICLR 2019)](https://github.com/Eric-mingjie/rethinking-network-pruning) release their code. This implementation relies heavily on this repo.
+This fold contains codes for using dS2LBI find winning tickets. Thanks for [Rethinking the Value of Network Pruning (Pytorch) (ICLR 2019)](https://github.com/Eric-mingjie/rethinking-network-pruning) release their code. This implementation relies heavily on this repo.
 
 ## Dependencies
-torch                v0.4.1.post2,
+torch                v1.0+,
 torchvision          v0.1.8,
 tensorboardX         v1.8.
 
