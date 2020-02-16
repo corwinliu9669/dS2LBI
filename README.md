@@ -48,5 +48,14 @@ To run this demo, please download and cd to this folder and run the following co
 ```bash
  python prune_lenet.py 
  ```
-
+# ImageNet Training Example
+This part of code is included in example/imagenet. To do this demo, run 
+```bash
+ python train_imagenet_slbi.py
+```
+# Lottery Training Example
+The part of lottery training code is included in example/lottery. To conduct this demo, run
+```bash
+ python train_imagenet_slbi.py
+```
 
