@@ -1,6 +1,6 @@
 # gS2LBI
 
-This is the project page for Split LBI. It is an optimization toolbox for <a href="https://pytorch.org/"> <b>Pytorch.</b></a><br>.Note that this demo is only for MNIST.
+This is the project page for Split LBI. It is an optimization toolbox for <a href="https://pytorch.org/"> <b>Pytorch.</b>
 
 # Prerequisites
 Pytorch 1.0 +
