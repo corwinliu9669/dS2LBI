@@ -54,8 +54,6 @@ This part of code is included in example/imagenet. To do this demo, run
  python train_imagenet_slbi.py
 ```
 # Lottery Training Example
-The part of lottery training code is included in example/lottery. To conduct this demo, run
-```bash
- python train_imagenet_slbi.py
-```
+The part of lottery training code is included in example/lottery. To conduct this demo, please refer to the readme file under  example/lottery.
+
 
